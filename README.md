@@ -12,7 +12,7 @@ Let's consider the Figure 1 that shows a quantum circuit to be optimized.
   <img src="https://github.com/mazder/Quantum_Computing/blob/master/enigma1.png" width="700" alt="accessibility text">
 </p>
 <p align="center">
-"Figure 1: A quantum circuit taken from QHACK"
+Figure 1: A quantum circuit taken from QHACK
 </p>
 
 ```
@@ -23,7 +23,7 @@ Figure 2 shows the decomposed quantum circuit by replacing SWAP gate with CNOT g
   <img src="https://github.com/mazder/Quantum_Computing/blob/master/OrgCirc.png" width="450" alt="accessibility text">
 </p>
 <p align="center">
-"Figure 2: Replaced SWAP Gate with CNOT sequence"
+Figure 2: Replaced SWAP Gate with CNOT sequence
 </p>
 
 ```
@@ -34,5 +34,5 @@ Figure 3 shows the optimized quantum circuit.
   <img src="https://github.com/mazder/Quantum_Computing/blob/master/OptzCirc.png" width="150" alt="accessibility text">
 </p>
 <p align="center">
-"Figure 3: Optimized circuit"
+Figure 3: Optimized circuit
 </p>
