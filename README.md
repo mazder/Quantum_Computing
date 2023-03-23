@@ -27,7 +27,7 @@ Figure 2: Replaced SWAP Gate with CNOT sequence
 </p>
 
 ```
-Figure 3 shows the optimized quantum circuit.
+Figure 3 shows the optimized quantum circuit by using the algorithm given in "An Algorithm for Quantum Template Matching" https://dl.acm.org/doi/10.1145/2629537.
 ```
 
 <p align="center">
