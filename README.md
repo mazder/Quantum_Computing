@@ -39,6 +39,6 @@ Figure 3: Optimized circuit
 </p>
 
 ```
-Simulation results for both original and optimized circuits are given *.pdf files in this repository.
+Simulation results for both original and optimized circuits are given *.pdf files in this repos.
 ```
 
