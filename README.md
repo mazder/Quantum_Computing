@@ -37,3 +37,8 @@ Figure 3 shows the optimized quantum circuit by using the algorithm given in
 <p align="center">
 Figure 3: Optimized circuit
 </p>
+
+```
+Simulation results for both original and optimized circuits are given *.pdf files in this repository.
+```
+
